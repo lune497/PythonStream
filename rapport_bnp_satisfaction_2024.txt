@@ -1,0 +1,1535 @@
+--- Slide 1 ---
+Rapport d’Etude satisfaction CLIENT 2024
+pour : 	Vincent Hennebicq
+Par : 	Nicolas Communeau
+	Mélanie ZYRA
+	13 décembre 2024
+
+--- Slide 2 ---
+2
+SOMMAIRE
+5
+1
+3
+2
+4 
+Satisfaction  tout au long du parcours client
+Annexes
+Satisfaction  tout au long du parcours client
+Mécanismes de la satisfaction
+Performance globale
+Contexte, objectifs & méthodologie
+6
+
+--- Slide 3 ---
+3
+DISPOSITIF
+
+Etude quantitative réalisée auprès de clients actifs et démarrés BNP Paribas Factor
+RECUEIL
+
+Terrain téléphonique
+Du 6 au 26 novembre 2024
+
+
+Entretiens réalisés avec la personne en charge de la gestion du contrat d’affacturage
+ECHANTILLON
+
+500 questionnaires réalisés 
+
+Echantillon représentatif du portefeuille de clients communiqué par BNP Paribas Factor (en termes d’ancienneté, segment de clientèle, encours autorisé et produit)
+
+Echantillon élaboré par strate sur les critères ci-dessus, puis redressé pour en assurer la représentativité.
+QUESTIONNAIRE
+
+Satisfaction globale
+Mise en place / vie du contrat
+Relation avec interlocuteurs
+Outils à disposition 
+Traitement des réclamations
+Concurrence
+Recommandation
+Relation à l’avenir
+Appétence RSE
+MÉTHODOLOGIE
+
+--- Slide 4 ---
+STRUCTURE DE L’ÉCHANTILLON
+01/07/2025
+4
+STRUCTURE DE L’ECHANTILLON (quotas)
+SEGMENT
+PLAFOND D’ACHAT
+ANCIENNETÉ
+PRO
+GR/GE
+ME
+ER
++500k
+150 à 500k
+-150k
+- d’un an
++ d’un an
+94%
+ont accepté de 
+lever l’anonymat
+3%
+utilisent les services de 
+BNP Paribas à l’export
+7%
+ont spontanément parlé 
+du repricing au cours 
+de l’enquête
+(3%)
+
+--- Slide 5 ---
+NOTES DE LECTURE
+01/07/2025
+5
+Les résultats sont calculés sur la base des individus qui se sont exprimés (hors ne sait pas / non concerné), hors cas particuliers indiqués.
+Tous les résultats sur une base inférieure à 30 individus sont présentés à titre indicatif et ne peuvent faire l’objet d’aucune analyse statistique. 
+Les différences significatives par rapport au total interrogé sont mentionnées dans ce rapport (++; --) avec un intervalle de confiance de + ou – 5%.
+Les différences significatives par rapport à l’année précédente sont mentionnées dans ce rapport (      ;      ) avec un intervalle de confiance de + ou – 5%, auquel cas les résultats de l’année précédente sont indiqués.
+Les critères sont évalués sur des notes de 1 à 10 :
+
+
+Tout au long du rapport, les moyennes d’évaluation seront légendées comme suit :
+* Base faible
+Très satisfait : notes de 9 ou 10
+Satisfait : notes de 7 ou 8
+Peu satisfait : notes de 5 ou 6
+Insatisfait : notes de 3 ou 4
+Très insatisfait : notes de 0, 1 ou 2
+Sous-total Satisfait : notes de 7 à 10
+
+--- Slide 6 ---
+Performance globale
+6
+Des indicateurs clés bien évalués et en hausse par rapport à l’année dernière (+7pts de NPS et +0,3pts de satisfaction, niveau le plus élevé depuis 2019).
+
+Les clients soulignent l’efficacité et la disponibilité des interlocuteurs. 
+
+42% indiquent que BNP Factor est meilleur que la concurrence et près de 8 clients sur 10 comptent maintenir, voire développer leur relation à l’avenir.
+
+--- Slide 7 ---
+01/07/2025
+7
+SATISFACTION
+20% Détracteurs
+(notes de 0 à 6)
+38% Neutres
+(notes de 7 ou 8)
+RECOMMANDATION
+(+15)
+…sont très satisfaits 
+(notes de 9 à 10)
+7,7
+/10
+7,9
+/10
+Répartition des notes
+(7,6)
+…de cœur
+…de tête
+42% 
+…sont promoteurs
+(notes de 9 ou 10)
+(29%)
+(21%)
+(20%)
+(7,4)
+(36%)
+52% de ces promoteurs sont prêts à publier un avis sur internet ou sur les réseaux sociaux
+(43%)
+Un NPS en progression par rapport à l’année dernière du fait de la conversion de clients neutres en promoteurs. La satisfaction est également en hausse.
+Q1. Tout d'abord, quelle note de satisfaction globale de 0 à 10 donneriez-vous à BNP Paribas Factor ? (n=500)
+Q48. Finalement, après avoir abordé les différents items, quelle note de satisfaction globale de 0 à 10 donneriez-vous à BNP Paribas FACTOR ? (n=500)
+Q49. Recommanderiez-vous BNP Paribas Factor à vos relations professionnelles sur une échelle de 0 à 10 ? (n=492)
+NPS = %promoteurs – %détracteurs
+
+--- Slide 8 ---
+01/07/2025
+8
+Répartition de la note de recommandation
+RECOMMANDATION
+Note de…
+Un glissement des notes de 7 vers des notes de 9 ou 10/10, ainsi qu’une baisse de la part de 6/10
+
+--- Slide 9 ---
+Evolution de la satisfaction globale de cœur
+01/07/2025
+9
+86%
+89%
+86%
+87%
+83%
+87%
+77%
+84%
+83%
+Taux de satisfaction
+ globale
+(Notes de 7 et plus)
+…de cœur
+80%
+83%
+78%
+81%
+Q1. Tout d'abord, quelle note de satisfaction globale de 0 à 10 donneriez-vous à BNP Paribas Factor ? (n=500)
+
+--- Slide 10 ---
+Comme l’an dernier, c’est le segment PRO qui est le plus satisfait et le plus enclin à recommander BNP Paribas Factor à son entourage.
+01/07/2025
+10
+SATISFACTION…
+…de cœur
+…de tête
+Q1. Tout d'abord, quelle note de satisfaction globale de 0 à 10 donneriez-vous à BNP Paribas Factor ? (n=500)
+Q48. Finalement, après avoir abordé les différents items, quelle note de satisfaction globale de 0 à 10 donneriez-vous à BNP Paribas FACTOR ? (n=500)
+Q49. Recommanderiez-vous BNP Paribas Factor à vos relations professionnelles sur une échelle de 0 à 10 ? (n=492)
+(15)
+(2)
+(19)
+(4)
+(33)
+(21)
+(12)
+(12)
+(12)
+(27)
+
+--- Slide 11 ---
+4% 
+mentionnent le site
+Autant d’éléments positifs que négatifs sont cités. Les plus satisfaits soulignent l’efficacité et la disponibilité des interlocuteurs. En revanche, les moins satisfaits reprochent les délais de traitement et le suivi des dossiers.
+01/07/2025
+11
+53%   citent une raison
+52%   citent une raison
+24% mentionnent les interlocuteurs
+15% mentionnent le fonctionnement du contrat d’affacturage
+31% 
+mentionnent le fonctionnement du contrat d’affacturage
+12% 
+mentionnent les interlocuteurs
+9% 
+mentionnent le site
+Pourquoi cette note de satisfaction (de cœur) ?
+8%    mentionnent le coût
+(8%)
+(11%)
+(4%)
+(18%)
+(38%)
+(11%)
+(5%)
+(69%)
+(35%)
+(20%)
+(15%)
+(16%)
+Q2. Pour quelle(s) raison(s) donnez-vous cette note de [note en Q1] ? (n=495)
+(5%)
+(3%)
+(4%)
+(1%)
+(2%)
+(5%)
+(4%)
+(4%)
+(7%)
+(3%)
+(2%)
+(2%)
+(2%)
+(13%)
+(5%)
+(2%)
+(6%)
+(5%)
+(7%)
+(7%)
+(-)
+(0%)
+
+--- Slide 12 ---
+Plus d’un client sur 3 a eu une expérience avec un autre Factor, une proportion en hausse par rapport à l’an dernier. 80% jugent BNP Paribas au moins équivalent à la concurrence, voire meilleur pour 42%.
+01/07/2025
+12
+ont eu un autre partenaire en affacturage
+Les prestations de BNP Paribas Factor sont…
+Meilleures
+Identiques
+Moins bonnes
+(29%)
+Q47. Si vous avez collaboré avec un autre partenaire en matière d’affacturage, diriez-vous aujourd’hui que les prestations de BNP Paribas Factor par rapport à ce dernier sont ?(n=469)
+47%
+32%
+22%
+
+--- Slide 13 ---
+Ceux qui trouvent BNP Paribas meilleur que la concurrence, apprécient davantage leur expérience client que la moyenne, notamment en comparaison des clients qui ne connaissent que BNP Paribas Factor.
+01/07/2025
+13
+Une satisfaction globale de 8.4/10
+
+Un NPS de +64, avec 65% de promoteurs et 1% de détracteurs
+Une satisfaction globale de 7.7/10
+
+Un NPS de +23, avec 42% de promoteurs et 20% de détracteurs
+Pour comparaison, auprès des clients qui n’ont pas d’autres partenaires en affacturage
+ont eu un autre partenaire en affacturage
+Les prestations de BNP Paribas Factor sont…
+Meilleures
+Identiques
+Moins bonnes
+(29%)
+47%
+32%
+22%
+Q47. Si vous avez collaboré avec un autre partenaire en matière d’affacturage, diriez-vous aujourd’hui que les prestations de BNP Paribas Factor par rapport à ce dernier sont ?(n=469)
+
+--- Slide 14 ---
+8 clients sur 10 se projettent toujours en relation avec BNP Paribas Factor à l’avenir, et 17% prévoient même de la développer. Les autres clients critiquent le coût trop élevé des services (comme l’an dernier).
+01/07/2025
+14
+Volume d’activité confié à BNP Paribas Factor à l’avenir
+(19%)
+(62%)
+(8%)
+(12%)
+79% comptent poursuivre la relation avec BNP Paribas Factor
+Q51. A l'avenir, en termes de volume d'activité confié à BNP Paribas Factor, comptez-vous…? (n=476)
+Q52. Pour quelle(s) raison(s) envisagez-vous de réduire/d'arrêter votre relation? (n=105)
+(81%)
+
+--- Slide 15 ---
+Satisfaction tout au long du parcours client
+15
+Un parcours client bien évalué dans son ensemble. Quelques évolutions sont à noter cette année :
+
+Une mise en place du contrat plus difficile cette année par rapport à l’année dernière, avec un impact qui reste modéré sur la satisfaction globale.
+Un relationnel davantage apprécié qu’en 2023, notamment concernant la réactivité et la joignabilité des interlocuteurs, ainsi que la clarté des explications fournies.
+Des réclamations moins nombreuses et mieux traitées. Toutefois les réclamants restent les clients les plus sévères.
+
+--- Slide 16 ---
+01/07/2025
+16
+MISE EN PLACE DU CONTRAT
+RELATION AUX INTERLOCUTEURS
+GESTION COURANTE
+RÉCLAMATIONS
+OUTILS 
+(SITE INTERNET ET APPLICATION)
+
+--- Slide 17 ---
+01/07/2025
+17
+MISE EN PLACE DU CONTRAT
+23% des clients interrogés sont concernés par cette étape de l’expérience client. Une expérience bien évaluée dans l’ensemble puisqu’environ un client sur 2 est très satisfait sur les critères de la mise en place du contrat. Ils sont toutefois plus nuancés qu’en 2023, ce qui se ressent légèrement dans leur évaluation globale.
+
+--- Slide 18 ---
+Une mise en place du contrat satisfaisante, mais en tendance un peu moins bien perçue que l’année dernière. Les délais de mise en place sont l’élément le plus apprécié.
+01/07/2025
+18
+47% 
+…sont très satisfaits
+(notes 9-10)
+Explications données avant la mise en place du contrat
+8,0
+/10
+Accompagnement de la mise en place du contrat
+51% 
+…sont très satisfaits
+(8,3)
+8,1
+/10
+Délai de mise en place du contrat
+8,4
+/10
+56% 
+…sont très satisfaits
+Répartition des notes
+(56%)
+(55%)
+(8,2)
+(8,8)
+(59%)
+Q7. Quelle note de 0 à 10 donneriez-vous aux explications données avant la mise en place de votre contrat (n=118)
+Q8. A l’accompagnement de la mise en place du contrat (d’affacturage) (n=116)
+Q9. Au délai de mise en place de votre contrat (n=116)
+
+--- Slide 19 ---
+Ce dernier critère génère également de la recommandation, notamment lorsque les nouveaux clients en sont « très satisfaits ». En l’occurrence, c’est le cas pour 56% d’entre eux.
+01/07/2025
+19
+Q9. Au délai de mise en place de votre contrat (n=116)
+NPS :
+
+…si très satisfait du critère (9 ou 10)
+…si plutôt satisfait du critère (7 ou 8)
+…si pas satisfait du critère (0 à 6)
+Délai de mise en place du contrat
+8,4
+/10
+56% 
+…sont très satisfaits
+(8,8)
+(59%)
+
+--- Slide 20 ---
+Les nouveaux clients semblent un peu moins satisfaits que les clients les plus anciens, en tendance. Notamment, leur satisfaction globale est légèrement en retrait.
+01/07/2025
+20
+Une satisfaction sur les contrats de
+ 7.9/10
+
+
+
+Une satisfaction globale de 
+7.5/10
+
+
+
+Un NPS de +20
+Avec 42% de promoteurs et 22% de détracteurs
+Une satisfaction sur les contrats de 
+8.1/10
+
+
+
+Une satisfaction globale de 
+7.7/10
+
+
+
+Un NPS de +22
+Avec 42% de promoteurs contre 20 % de détracteurs
+
+--- Slide 21 ---
+01/07/2025
+21
+L’aspect relationnel est, encore une fois, la principale force du service de BNP Paribas Factor. Les interlocuteurs sont salués pour leurs compétences, leur amabilité et la clarté de leurs explications.
+
+Leur joignabilité est aussi en nette augmentation, tant par email (+0,5) que par téléphone (+0,7), c’est le premier levier d’action identifié en 2023. Cette hausse a engendré une hausse de la réactivité perçue, point désormais satisfaisant. 
+
+La fréquence des contacts reste toutefois à parfaire.
+
+--- Slide 22 ---
+4% 
+mentionnent le site
+La relation aux interlocuteurs est le 1er point fort cité spontanément par les clients. C’est même un point davantage apprécié qu’en 2023.
+01/07/2025
+22
+53%   citent une raison
+24% mentionnent les interlocuteurs
+15% mentionnent le fonctionnement du contrat d’affacturage
+Pourquoi cette note de satisfaction (de cœur) ?
+(11%)
+(4%)
+(18%)
+(38%)
+(11%)
+(5%)
+Q2. Pour quelle(s) raison(s) donnez-vous cette note de [note en Q1] ? (n=495)
+(5%)
+(3%)
+(4%)
+(1%)
+(2%)
+(5%)
+(4%)
+(-)
+(0%)
+
+--- Slide 23 ---
+Accueil et amabilité de vos interlocuteurs
+9,0
+/10
+72% 
+…sont très satisfaits
+
+Dont 50% sont enchantés !
+(note de 10)
+(8,9)
+(69%)
+La qualité des interlocuteurs est toujours largement saluée, davantage qu’en 2023 en termes de clarté des informations.
+01/07/2025
+23
+Compétence de vos interlocuteurs
+61% 
+…sont très satisfaits 
+(9 ou 10)
+
+Dont 38% sont enchantés !
+(note de 10)
+8,6
+/10
+Clarté des informations et explications
+53% 
+…sont très satisfaits
+
+Dont 32% sont enchantés !
+(note de 10)
+8,3
+/10
+Répartition des notes
+(8,1)
+(46%)
+(8,5)
+(59%)
+Q27. quelle note de 0 à 10 donneriez-vous pour la compétence de vos interlocuteurs (n=484)
+Q26. L’accueil / l’amabilité de vos interlocuteurs (n=493)
+Q29. La clarté des informations et des explications fournies  (n=494)
+
+--- Slide 24 ---
+La joignabilité des interlocuteurs par téléphone est largement plus appréciée qu’en 2023. La joignabilité par mail reste mieux évaluée que la joignabilité au téléphone, mais c’est cette dernière qui progresse le plus.
+01/07/2025
+24
+47% 
+…sont très satisfaits 
+(9 ou 10)
+Facilité à joindre vos interlocuteurs par téléphone
+Répartition des notes
+7,9
+/10
+54% 
+…sont très satisfaits 
+(9 ou 10)
+Facilité à joindre vos interlocuteurs par email
+8,2
+/10
+Q25a. quelle note de 0 à 10 donneriez-vous pour la facilité à joindre vos interlocuteurs par téléphone (n=461)
+Q25b. La facilité à joindre vos interlocuteurs par mail (n=479)
+(7,2)
+(40%)
+(7,7)
+(36%)
+
+--- Slide 25 ---
+Plus la joignabilité des interlocuteurs est satisfaisante, plus les clients seront enclins à recommander BNP Paribas Factor. C’est particulièrement le cas lorsque la joignabilité est « très satisfaisante ».
+01/07/2025
+25
+47% 
+…sont très satisfaits 
+(9 ou 10)
+Facilité à joindre vos interlocuteurs par téléphone
+7,9
+/10
+54% 
+…sont très satisfaits 
+(9 ou 10)
+Facilité à joindre vos interlocuteurs par email
+8,2
+/10
+Q25a. quelle note de 0 à 10 donneriez-vous pour la facilité à joindre vos interlocuteurs par téléphone (n=461)
+Q25b. La facilité à joindre vos interlocuteurs par mail (n=479)
+(7,2)
+(40%)
+(7,7)
+(36%)
+NPS :
+
+…si très satisfait du critère (9 ou 10)
+…si plutôt satisfait du critère (7 ou 8)
+…si pas satisfait du critère (0 à 6)
+
+--- Slide 26 ---
+Il en est de même pour la réactivité des interlocuteurs qui est en net progrès. La fréquence des contacts reste toutefois « seulement correcte ». Un quart des clients continue d’en être insatisfait, comme en 2023.
+01/07/2025
+26
+Réactivité de vos interlocuteurs
+
+Dont 29% sont enchantés !
+(note de 10)
+50% 
+…sont très satisfaits
+8,2
+/10
+(7,9)
+(45%)
+Répartition des notes
+Q28. quelle note de 0 à 10 donneriez-vous pour la réactivité de vos interlocuteurs  (n=497)
+Q30. La fréquence de contacts par vos interlocuteurs BNP Paribas Factor (mails, téléphone, visites …) (n=468)
+Fréquence de contacts avec vos interlocuteurs
+44% 
+…sont très satisfaits
+
+…mais 24% en sont insatisfaits
+7,6
+/10
+(7,7)
+(40%)
+
+--- Slide 27 ---
+Tout comme la joignabilité, une bonne évaluation  de la fréquence des contacts amène à plus de recommandation. L’écart est important lorsque critère est « très satisfaisant » ou « plutôt satisfaisant ».
+01/07/2025
+27
+Q30. La fréquence de contacts par vos interlocuteurs BNP Paribas Factor (mails, téléphone, visites …) (n=468)
+NPS :
+
+…si très satisfait du critère (9 ou 10)
+…si plutôt satisfait du critère (7 ou 8)
+…si pas satisfait du critère (0 à 6)
+Fréquence de contacts avec vos interlocuteurs
+44% 
+…sont très satisfaits
+
+…mais 24% en sont insatisfaits
+7,6
+/10
+(7,7)
+(40%)
+
+--- Slide 28 ---
+Trois quarts des clients connaissent leur CARC cette année, une proportion inférieure à l’an dernier (86%). Et même parmi ceux qui le connaissent, la majorité de l’a jamais rencontré.
+01/07/2025
+28
+Q31bis. Connaissez-vous votre chargé(e) d’affaires Relation client ? (n=323)
+26% des clients ont rencontré leur CARC cette année
+
+49% le connaissent, mais ne l’ont pas rencontré
+
+25% ne le connaissent pas
+--
+(26%)
+(14%)
+(60%)
+
+--- Slide 29 ---
+Plus de la moitié des clients n’ont aucune suggestion d’amélioration. Parmi les axes de progrès cités, nous retrouvons la personnalisation des contacts avec une équipe dédiée et les délais de réponse.
+01/07/2025
+29
+Q31. Selon vous, qu’est-ce qui pourrait améliorer votre relation avec vos interlocuteurs ? (n=450)
+(19%)
+(21%)
+(5%)
+(1%)
+(19%)
+(43%)
+(3%)
+Selon vous, qu’est-ce qui pourrait améliorer votre relation avec vos interlocuteurs ?
+*Item  modifié en 2024
+
+--- Slide 30 ---
+01/07/2025
+30
+La gestion courante du contrat est satisfaisante, voire très satisfaisante pour 45% des répondants. Une large majorité juge leur contrat adapté à leur besoin. Ces clients sont davantage promoteurs, notamment lorsque le contrat est jugé « très adapté ». 
+
+Les autres clients pour qui le contrat n’est plus adapté évoquent le coût, le manque d’adaptabilité par rapport à leur activité et un manque d’accompagnement.
+
+La gestion du recouvrement reste le point le moins apprécié de la gestion courante du contrat. Là aussi, un manque d’accompagnement est pointé, les clients ont le sentiment de devoir se substituer au factor.
+
+--- Slide 31 ---
+La gestion du contrat est mieux évaluée qu’en 2023 : 45% des clients en sont pleinement satisfaits. Les clients PRO sont les plus satisfaits, au contraire des clients GR/GE.
+01/07/2025
+31
+Répartition des notes
+45% 
+…sont très satisfaits 
+(9 ou 10)
+Gestion du contrat
+8,1
+/10
+(35%)
+(7,8)
+Q24. Quelle note sur 10 donneriez-vous à la gestion de votre contrat ? (n=487)
+
+--- Slide 32 ---
+Le contrat est jugé adapté par la grande majorité des clients, voire très adapté par près de la moitié. Les quelques clients le considérant inadapté évoquent le coût, le manque d’adaptabilité et d’accompagnement.
+01/07/2025
+32
+Votre contrat est-il toujours adapté à vos besoins et à l’évolution de votre activité ?
+LE CONTRAT N’EST PLUS ADAPTÉ CAR…*
+27% 
+mentionnent 
+l’évolution de 
+l’activité / 
+des besoins
+27% 
+mentionnent 
+Le fonctionnement 
+du contrat
+23% 
+mentionnent le coût
+*Les mentions peu souvent citées (moins de 2%) ne sont pas affichées
+81%
+19%
+(28%)
+(52%)
+(20%)
+(25%)
+--
+Q22. Estimez-vous que votre contrat d’affacturage avec BNP Paribas Factor soit aujourd’hui toujours adapté à vos besoins et à l’évolution de votre activité ? (n=487)
+Q23. Pour quelle(s) raison(s) estimez-vous que votre contrat d’affacturage avec BNP Paribas Factor n’est plus adapté ? (n=95)
+(17%)
+(2%)
+(4%)
+(10%)
+(3%)
+(7%)
+(2%)
+(2%)
+(18%)
+(2%)
+--
+++
+++
+
+--- Slide 33 ---
+Logiquement, plus le contrat est adapté à l’activité, plus la propension à recommander est forte. A noter, comme en 2023, la différence de NPS selon que le contrat est « tout à fait » adapté ou juste « plutôt » adapté.
+01/07/2025
+33
+Votre contrat est-il toujours adapté à vos besoins et à l’évolution de votre activité ?
+Q22. Estimez-vous que votre contrat d’affacturage avec BNP Paribas Factor soit aujourd’hui toujours adapté à vos besoins et à l’évolution de votre activité ? (n=487)
+Q23. Pour quelle(s) raison(s) estimez-vous que votre contrat d’affacturage avec BNP Paribas Factor n’est plus adapté ? (n=95)
+Un NPS de…
++57, 59% de promoteurs et seulement 2% de détracteurs
++6, 32% de promoteurs mais 26% de détracteurs
+-40, et 51% de détracteurs, 30% de ces clients sont des réclamants
+-44, et 62% de détracteurs, 30% de ces clients sont des réclamants
+81%
+19%
+
+--- Slide 34 ---
+Le niveau des agréments et leur délai de réponses sont toujours aussi satisfaisants, de même que le financement. Tant le montant que les délais sont salués, très peu de clients en sont insatisfaits.
+01/07/2025
+34
+45% 
+…sont très satisfaits
+Niveau des agréments
+53% 
+…sont très satisfaits
+8,4
+/10
+Délai de réponse aux demandes d’agrément
+LES AGRÉMENTS
+49% 
+…sont très satisfaits
+8,2
+/10
+Au niveau des montants financés
+59% 
+…sont très satisfaits
+8,6
+/10
+Délai de prise en charge et de financement
+LE FINANCEMENT
+(51%)
+(8,3)
+(45%)
+(8,0)
+8,0
+/10
+(57%)
+(8,5)
+(49%)
+(8,2)
+Q11. Concernant votre contrat, quelle note de 0 à 10 donneriez-vous au délai de prise en charge et de financement de vos factures (n=494)
+Q12. Au niveau des montants financés(n=482)
+Q13. Au délai de réponse à vos demandes d’agrément (n=456)
+Q14. Au niveau des agréments accordés sur vos clients (n=448)
+Répartition des notes
+Répartition des notes
+Répartition des notes
+Répartition des notes
+
+--- Slide 35 ---
+Les clients se montrent mitigés sur la gestion du recouvrement (bien qu’en légers progrès vs 2023) : la majorité est satisfait mais un quart des clients ne l’est pas. Ils ont le sentiment de devoir faire le travail de BNP Paribas Factor.
+01/07/2025
+35
+Si note de 0 à 6 
+(31%)
+(7,2)
+7,5
+/10
+Répartition des notes
+(31%)
+Q15. Concernant votre contrat, quelle note de 0 à 10 donneriez-vous à la gestion du recouvrement des factures de vos clients (n=368)
+Q16. Pour quelles raisons donnez-vous cette note quant à la gestion du recouvrement des factures de vos clients ? (n=98)
+56% 
+Mentionnent
+ le manque d’accompagnement
+25% 
+mentionnent la fiabilité
+(25%)
+(70%)
+17% 
+Mentionnent
+ Les délais
+(12%)
+(45%)
+(13%)
+(14%)
+(8%)
+(11%)
+(6%)
+(1%)
+(11%)
+(1%)
+
+--- Slide 36 ---
+Une bonne évaluation de la gestion du recouvrement amène davantage à une forte recommandation. C’est particulièrement le cas lorsque le critère est « Très satisfaisant » par rapport à « Plutôt satisfaisant ».
+01/07/2025
+36
+Q15. Concernant votre contrat, quelle note de 0 à 10 donneriez-vous à la gestion du recouvrement des factures de vos clients (n=368)
+NPS :
+
+…si très satisfait du critère (9 ou 10)
+…si plutôt satisfait du critère (7 ou 8)
+…si pas satisfait du critère (0 à 6)
+(31%)
+(7,2)
+7,5
+/10
+(31%)
+
+--- Slide 37 ---
+Il en est de même pour l’affectation des règlements puisque 20% sont insatisfaits. Leur fiabilité ainsi que leur affectation (délais et informations) sont plus mitigées. Les clients fournissent autant d’effort qu’en 2023.
+01/07/2025
+37
+42% 
+…sont très satisfaits
+
+20% 
+sont insatisfaits (de 0 à 6)
+Affectation des règlements
+7,9
+/10
+*8% d’autres mentions
+Niveau d’effort déployé pour les affectations
+2,3
+/5
+Satisfaction / Insatisfaction quant aux affectations
+20% fournissent un effort important
+(niveau 4 ou 5)
+61% fournissent peu/pas d’effort
+(niveau 1 ou 2)
+Niveau d’effort déployé pour la mise à jour réglementaire du dossier
+1,8
+/5
+…dont 53% ne fournissent pas d’effort
+81% fournissent peu/pas d’effort
+(niveau 1 ou 2)
+Répartition des notes
+(40%)
+(7,8)
+(2,3)
+(17%)
+(14%)
+(28%)
+(18%)
+(4%)
+(6%)
+(8%)
+(19%)
+(62%)
+(19%)
+(1,7)
+(83%)
+(60%)
+Q17. Concernant votre contrat, quelle note de 0 à 10 donneriez-vous à l’affectation des règlements de vos clients (n=455)
+Q18. Pour quelle(s) raison(s) ? (n=425)
+Q19. Sur une échelle de 1 à 5, quel niveau d'effort devez-vous déployer pour l'affectation de vos règlements ? (n=478)
+Q10. Sur une échelle de 1 à 5, quel niveau d’effort devez-vous déployer pour la mise à jour réglementaire de votre dossier client (Bilan, KBis, statuts, liste des bénéficiaires effectifs, etc.) ? (n=434)
+(21%)
+
+--- Slide 38 ---
+01/07/2025
+38
+Les réclamants sont moins nombreux par rapport à l’année dernière. Ceux-ci passent principalement par le canal mail  et font appel surtout à leur gestionnaire d’affacturage BNP Factor. Les sujets portent majoritairement sur des problèmes d’affectation de fonds. 
+
+Bien que le niveau d’effort déployé soit en tendance à la baisse et le traitement des réclamations soint plus satisfaisant, les réclamants conservent une expérience globalement négative et demeurent davantage détracteurs que promoteurs.
+
+--- Slide 39 ---
+La part de clients déclarant avoir déposé une réclamation a reculé. Le principal motif est un problème d’affectation des fonds, comme en 2023. Le canal privilégié est le mail puis le téléphone (parfois conjointement).
+01/07/2025
+39
+Pourquoi ?
+ont effectué une réclamation au cours des 12 derniers mois
+Comment ?
+Niveau d’effort déployé pour les réclamations
+41%    fournissent un effort important (niveau 4 ou 5)      
+…dont 20%    un effort très important (niveau 5)
+3,1
+/5
+(59%)
+(3,6)
+(39%)
+(30%)
+Q37. Avez-vous fait une réclamation, c’est-à-dire déclaré un mécontentement, au cours des 12 derniers mois ? (n=500)
+Q38. Quel était le sujet de cette réclamation ? (n=107)
+Q39. Quel canal avez-vous utilisé pour effectuer votre réclamation ? (n=107)
+Q44. Sur une échelle de 1 à 5 comment évaluez-vous le niveau d'effort  déployé pour le traitement de votre réclamation ? (n=106)
+*Nouvel Item en 2024
+
+--- Slide 40 ---
+Les réclamants se sont orientés principalement vers leur gestionnaire d’affacturage BNP Paribas Factor, puis leur chargé d’affacturage relation clientèle dans une moindre mesure.
+01/07/2025
+40
+Q39bis. Auprès de qui avez-vous effectué votre réclamation ? (n=99)
+Auprès de qui avez-vous effectué votre réclamation ?
+Rappel: 21 % 
+des répondants
+ont effectué une réclamation au cours
+des 12 derniers mois
+*Item  modifié en 2024
+
+--- Slide 41 ---
+Les réclamants sont par nature moins satisfaits de BNP Paribas Factor que les autres clients. Leur NPS est largement négatif, près de la moitié d’entre eux sont détracteurs.
+01/07/2025
+41
+SATISFACTION
+RECOMMANDATION
+SATISFACTION
+Une satisfaction globale de 6.6/10
+
+
+
+
+Un NPS de -25
+44% des réclamants sont des détracteurs
+Une satisfaction globale de 
+7.9/10
+
+
+
+
+Un NPS de +34
+48% des non-réclamants sont des 
+promoteurs, 14% sont des détracteurs
+
+--- Slide 42 ---
+Les réclamants sont insatisfaits cette année comme ils l’étaient l’an dernier. En tendance, ils sont un peu plus détracteurs, mais leur satisfaction globale est légèrement meilleure.
+01/07/2025
+42
+Une satisfaction globale de 6.6/10
+vs 6.3/10 en 2023
+
+
+
+Un NPS de -25
+44% des réclamants sont des détracteurs
+vs -18 en 2023, dont 39% de détracteurs
+SATISFACTION
+RECOMMANDATION
+
+--- Slide 43 ---
+Les réclamations semblent effectivement mieux traitées. Le processus de traitement de la réclamation semble plus satisfaisant et mieux évalué dans l’ensemble, notamment sur l’écoute accordée et le traitement / suivi.
+01/07/2025
+43
+34% 
+…sont insatisfaits
+(0 à 6)
+Ecoute accordée lors de la réclamation
+6,9
+/10
+46% 
+…sont insatisfaits
+Solution trouvée / explications
+6,2
+/10
+49% 
+…sont insatisfaits
+Traitement / suivi de la réclamation
+6,0
+/10
+55% 
+…sont insatisfaits
+Délai de traitement
+   de la réclamation
+5,9
+/10
+Répartition des notes
+(5,2)
+(5,2)
+(6,6)
+(5,0)
+(38%)
+(61%)
+(58%)
+(63%)
+Q40. Concernant cette réclamation, quelle note sur 10 donneriez-vous : A l’écoute accordée lors de votre réclamation ? (n=101)
+Q41. A la solution trouvée ou aux explications apportées à votre réclamation ? (n=99)
+Q42. Au traitement/suivi de votre réclamation ? (n=97)
+Q43. Au délai de traitement de votre réclamation ? (n=97)
+
+--- Slide 44 ---
+01/07/2025
+44
+Le site Gestion des Opérations ainsi que le parcours digital dans son ensemble sont toujours aussi bien évalué que l’année dernière. 
+
+Près des deux tiers des clients ont activé les notifications informant de la cession des factures. Ce système de notification est très apprécié par 71% des utilisateurs.
+
+--- Slide 45 ---
+Les clients sont autant satisfaits du site GOP et de leur parcours digital que l’année dernière. Plus d’un tiers en est très satisfait.
+01/07/2025
+45
+37% 
+…sont très satisfaits
+Evaluation globale du site GOP
+7,6
+/10
+Répartition des notes
+(7,6)
+(35%)
+Q32. Concernant votre niveau de satisfaction vis-à-vis du site « Gestion des Opérations » pouvez-vous me donner une note comprise entre 0 et 10 ? (n=487)
+Q33_2023. Et quelle note sur 10 donneriez-vous à l’expérience de votre parcours digital au sein de BNP Paribas Factor ? (n=464)
+35% 
+…sont très satisfaits
+Evaluation globale de l’expérience du parcours digital
+7,6
+/10
+Répartition des notes
+(7,7)
+(36%)
+
+--- Slide 46 ---
+Répartition des notes
+Le système de notification est activé par 63% des clients, et toujours aussi apprécié. Les 37% des clients ne l’ayant pas activé disent surtout ne pas le connaitre. Quelques-uns n’en voient pas l’utilité, ils sont minoritaires.
+01/07/2025
+46
+Ont activé par mail les notifications qui informent de la cession des factures
+71% 
+…sont très satisfaits
+
+dont 53% sont ravis (note de 10)
+Système d’alertes
+9,0
+/10
+(8,8)
+(65%)
+Ceux qui ne l’ont pas activé (37%), ne l’ont pas fait car :
+(68%)
+(32%)
+Q20. Avez-vous activé par mail les notifications qui vous informent de la cession de vos factures ? (n=469)
+Q20bis. Pour quelle(s) raison(s) ne l’avez-vous pas activé ? (n=169)
+Q21. Dans quelle mesure êtes-vous satisfait de ces alertes ? (n=285)
+(72%)
+(12%)
+(4%)
+(3%)
+(2%)
+(5%)
+(1%)
+
+--- Slide 47 ---
+Comment s’explique la recommandation ?
+47
+Deux mécanismes sont clairement identifiés : un mécanisme relationnel, et un mécanisme lié aux règlements. Les deux impactent la perception de gestion du contrat, et donc le NPS.
+
+Le 1er dépend de 3 facteurs que sont la joignabilité par email, par téléphone et la fréquence des contacts. Les attentes des clients sont élevées sur ces aspects, un haut niveau est le « minimum ».
+
+Le second tient davantage aux délais de prise en charge et de financement, aux montants financés et aux recouvrements. Ce dernier mécanisme peut jouer à la hausse sur le NPS.
+
+--- Slide 48 ---
+Tous les critères n’ont pas le même rôle dans la recommandation…
+Pour améliorer la recommandation des clients, le plus efficace n'est pas forcément d'améliorer les critères les plus mal notés. Tous les critères ne jouent pas le même rôle dans la recommandation.
+01/07/2025
+48
+Boosters
+Moteurs
+Ces critères ont un effet à la baisse comme à la hausse sur la satisfaction globale. L'objectif est donc de progresser au maximum.
+Ces critères sont les "fondamentaux" du service. Il est nécessaire d'être très bon sur ces critères pour garantir un niveau de satisfaction minimum.
+Ces critères constituent les "plus" de la prestation délivrée. Ils n'ont d'effet sur la satisfaction globale qu'à la hausse.
+Socles
+AIDE À LA LECTURE DU MAPPING :
+L’axe des abscisses représente le potentiel d’un critère à générer de la promotion
+Si un critère est à droite, sa bonne évaluation permet de générer des promoteurs
+Si un critère est à gauche, sa bonne évaluation ne va pas nécessairement générer de promoteurs
+L’axe des ordonnées représente le potentiel d’un critère à générer de la détraction
+Si un critère est haut, sa mauvaise évaluation va générer des détracteurs
+Si un critère est bas, sa mauvaise évaluation ne va pas pour autant générer de détracteurs
+
+--- Slide 49 ---
+Rôle des critères dans la recommandation – catégories
+01/07/2025
+49
+Ces critères ont un effet à la baisse comme à la hausse sur la satisfaction globale. L'objectif est donc de progresser au maximum.
+Ces critères sont les "fondamentaux" du service. Il est nécessaire d'être très bon sur ces critères pour garantir un niveau de satisfaction minimum.
+Ces critères constituent les "plus" de la prestation délivrée. Ils n'ont d'effet sur la satisfaction globale qu'à la hausse.
+21% des clients sont concernés
+Boosters
+Moteurs
+Socles
+Deux critères neutres ayant peu/pas d’impact direct sur la satisfaction globale
+
+--- Slide 50 ---
+Potentiel créateur de promotion
+Rôle des critères dans la recommandation – mapping
+01/07/2025
+50
+Potentiel créateur de détraction
+Boosters
+Socles
+Moteurs
+Critères neutres
+La taille des bulles est le reflet de leur besoin de progresser : plus une bulle est grande, et plus il est nécessaire de progresser sur ce critère.
+
+--- Slide 51 ---
+La hausse notable de critères socles et moteurs comme la joignabilité et la réactivité des interlocuteurs est à l’origine du progrès du NPS. La gestion du contrat est aussi impactée positivement.
+01/07/2025
+51
+21% des clients sont concernés
+Boosters
+Moteurs
+Socles
+Deux critères neutres ayant peu/pas d’impact direct sur la satisfaction globale
+
+--- Slide 52 ---
+Interactions entre critères : les réseaux Bayésiens
+01/07/2025
+52
+Les réseaux Bayésiens permettent de comprendre les interactions entre différentes variables qui expliquent la recommandation.
+
+La méthode consiste à construire une base d’apprentissage à partir des réponses à l’enquête et à déterminer le sens de dépendance des critères grâce au modèle.
+
+Pour chaque variable, l’analyse identifie :
+Dans quelle proportion elle impacte la recommandation exprimée sur les autres variables
+À l’inverse, dans quelle proportion le niveau de satisfaction exprimé sur cette variable est influencé par la satisfaction sur les autres variables.
+L’analyse bayésienne est extrêmement utile pour sélectionner les leviers les plus efficaces lors de la réflexion sur les plans d’actions.
+
+Chaque variable est signalée par un code couleur correspondant au niveau obtenu.
+AIDE À LA LECTURE :
+Le score indiqué sur chaque critère est la moyenne sur 10 Les flèches (et leur sens) indiquent l’influence d’un critère sur un autre
+Les % indiqués sur les flèches indiquent l’intensité de l’influence exercée
+
+EXEMPLE D’INTERPRÉTATION : 
+La recommandation est influencée à 56% par la gestion du contrat, critère qui dépend lui-même de la réactivité des interlocuteurs et de la fréquence des contacts. La réactivité perçue des interlocuteurs est fonction de leur joignabilité par email, de leur compétence et de la clarté de leurs explications.
+
+--- Slide 53 ---
+La recommandation dépend fortement de deux mécanismes : le premier est un mécanisme relationnel, le second tient aux règlements (affectation, montants financés, recouvrements, etc.)
+01/07/2025
+53
++22
+NPS
+8,2
+8,0
+7,9
+8,4
+7,5
+8,1
+8,6
+7,6
+8,2
+8,2
+7,9
+8,6
+8,3
+9,0
+Q15. Gestion du recouvrement
+Q17. Affectation des règlements
+Q14. Niveau des agréments accordés
+Q13. Délai de réponse à vos demandes d’agrément
+Q12. Montant financé
+Q11. Délai de prise en charge et de financement de vos factures
+Q24. Gestion du contrat
+Q30. Fréquence de contacts
+Q28. Réactivité de vos interlocuteurs
+Q29. Clarté des informations et explications
+Q25b. Facilité à joindre par mail
+Q25a. Facilité à joindre par téléphone
+Q27. Compétence des interlocuteurs
+Q26. Accueil / amabilité de vos interlocuteurs
+27%
+21%
+40%
+30%
+13%
+38%
+13%
+21%
+20%
+56%
+15%
+33%
+16%
+29%
+30%
+22%
+36%
+18%
+
+--- Slide 54 ---
+La brique relationnelle est fortement impactée par la fréquence des contacts et la joignabilité par email/téléphone, ces deux derniers critères influençant la réactivité perçue des contacts.
+01/07/2025
+54
++22
+NPS
+8,1
+7,6
+8,2
+8,2
+7,9
+8,6
+8,3
+9,0
+Q24. Gestion du contrat
+Q30. Fréquence de contacts
+Q28. Réactivité de vos interlocuteurs
+Q29. Clarté des informations et explications
+Q25b. Facilité à joindre par mail
+Q25a. Facilité à joindre par téléphone
+Q27. Compétence des interlocuteurs
+Q26. Accueil / amabilité de vos interlocuteurs
+56%
+15%
+33%
+16%
+29%
+30%
+22%
+36%
+
+--- Slide 55 ---
+Le mécanisme « Règlement » dépend de deux critères majoritaires : les délais de réponse aux demandes d’agréments et les délais de prise en charge et de financement. La gestion du recouvrement impacte aussi.
+01/07/2025
+55
++22
+NPS
+8,2
+8,0
+7,9
+8,4
+7,5
+8,1
+8,6
+Q15. Gestion du recouvrement
+Q17. Affectation des règlements
+Q14. Niveau des agréments accordés
+Q13. Délai de réponse à vos demandes d’agrément
+Q12. Montant financé
+Q11. Délai de prise en charge et de financement de vos factures
+Q24. Gestion du contrat
+27%
+21%
+40%
+30%
+13%
+38%
+13%
+21%
+20%
+56%
+18%
+
+--- Slide 56 ---
+(a)
+(b)
+Leviers d’actions et priorités
+01/07/2025
+56
+7,6
+21% de la clientèle  il est primordial de travailler sur les sources de réclamations : affectation des fonds
+8,2
+7,9
+8,4
+
+--- Slide 57 ---
+Priorité 1 : FACILITÉ À JOINDRE LES INTERLOCUTEURS
+01/07/2025
+57
++22
+NPS
+8,1
+8,2
+8,2
+7,9
+8,6
+Q24. Gestion du contrat
+Q28. Réactivité de vos interlocuteurs
+Q25b. Facilité à joindre par mail
+Q27. Compétence des interlocuteurs
+56%
+33%
+22%
+36%
+Q25a. Facilité à joindre par téléphone
+Ce que les clients attendent à ce niveau :
+Des réponses plus rapides, notamment par email
+Un meilleur taux de décroché par téléphone
+Un meilleur suivi des questions posées, des problématiques rencontrées
+Moins de turnover chez les conseillés
+« Le contrat fonctionne, la plateforme et l'outil sont satisfaisants mais pour obtenir des réponses, que ce soit par le conseiller commercial ou opérationnel, c'est très long et compliqué, beaucoup de changement de conseillers, certains qui ne répondent pas, d'autres qui partent vite. Là j'en ai une actuellement à qui j'ai proposé un nouveau client à facturer le 21/10/2024 et elle m'a répondu aujourd'hui le 08/11/2024 (j'ai eu longtemps envie de passer un contrat avec un autre organisme puisqu'il n'y avait pas de réponses) et pas assez de renseignements sur le côté technique. On attend une réponse dans la semaine mais j'ai toujours une personne différente et je dois relancer pour avoir une réponse, la réponse automatique c'est de nous dire d'aller voir sur le site.»
+(4 à la joignabilité par email, 7 à la joignabilité par téléphone)
+Des fois, c'est compliqué d'avoir les intervenants par mail et téléphone. Il n'y a pas forcément un bon suivi systématiquement. Il y a eu des réunions téléphoniques où c'était tendu. Il y a eu des améliorations.
+(2 à la joignabilité par email, 7 à la joignabilité par téléphone)
+
+--- Slide 58 ---
+Priorité 1 : FACILITÉ À JOINDRE LES INTERLOCUTEURS – SIMULATION*
+01/07/2025
+58
+Objectifs fixés :
+Facilité à joindre par mail : +0,3 pts
+Facilité à joindre par téléphone : +0,4 pts
+
+Une meilleure la joignabilité aurait un impact non négligeable sur la perception de réactivité de ces interlocuteurs (+0,2) ainsi que leurs compétences (+0,2). Par conséquent, la satisfaction quant à la gestion du contrat évoluerait (+0,2), et le NPS passerait à +29.
+*La simulation consiste à observer les impacts de l’évolution de variables explicatives, sur une variable à expliquer, ceci en conservant une structure d’échantillon identique et en neutralisant l’effet possible de variables de profil. Les variables neutralisées ici sont l’ancienneté du contrat, le segment de clientèle, le niveau d’encours, le produit détenu et le commercial en charge du compte.
++29
+NPS
+8,3
+8,5
+8,5
+8,3
+8,8
+Q24. Gestion du contrat
+Q28. Réactivité de vos interlocuteurs
+Q25b. Facilité à joindre par mail
+Q27. Compétence des interlocuteurs
+56%
+33%
+22%
+36%
+Q25a. Facilité à joindre par téléphone
+
+--- Slide 59 ---
+Priorité 2 : FRÉQUENCE DES CONTACTS
+01/07/2025
+59
++22
+NPS
+8,1
+7,6
+Q24. Gestion du contrat
+Q30. Fréquence de contacts
+56%
+15%
+Ce que les clients attendent à ce niveau :
+Des contacts plus réguliers, plus fréquents, notamment en cas de demande
+Une proactivité des conseillers/gestionnaires/chargés de compte dans la relation
+Une meilleure présence, par téléphone à minimum (appels de courtoisie, prise de nouvelles, revalidation de besoins, etc.)
+« Des fois, je leur envoie les factures et ils me disent qu'ils ne les ont pas reçues. Puis ils me contactent 90 jours après pour me dire qu'en fait, ils les avaient bien reçues. Depuis que j'ai changé de conseiller, il y a une mauvaise organisation de vos services. Je n'ai jamais le même conseiller qui me rappelle. »
+(0 à la fréquence des contacts)
+« Un manque de communication entre notre gestionnaire et nous, moi je suis arrivé en octobre l'année dernière et j'ai pas eu un seul appel de sa part alors qu'il y a eu des soucis et un temps de réponse trop long par rapport à des mails. »
+(6 à la fréquence des contacts)
+
+--- Slide 60 ---
+Priorité 2 : FRÉQUENCE DES CONTACTS – SIMULATION*
+01/07/2025
+60
+*La simulation consiste à observer les impacts de l’évolution de variables explicatives, sur une variable à expliquer, ceci en conservant une structure d’échantillon identique et en neutralisant l’effet possible de variables de profil. Les variables neutralisées ici sont l’ancienneté du contrat, le segment de clientèle, le niveau d’encours, le produit détenu et le commercial en charge du compte.
++32
+NPS
+8,3
+8,2
+Q24. Gestion du contrat
+Q30. Fréquence de contacts
+56%
+15%
+Objectifs fixés :
+Fréquence des contacts : +0,5 pts
+
+La poursuite des efforts quant à la fréquence de contact pourrait permettre un gain conséquent. Une hausse de +0,5 point engendrerait une meilleure perception de la gestion des contrats (+0,2 point) et un gain sur le NPS, passant à +32.
+
+--- Slide 61 ---
+Priorité 3 : DÉLAI DE RÉPONSES AUX DEMANDES D’AGRÉMENT
++22
+8,2
+8,0
+7,9
+8,4
+Q17. Affectation des règlements
+Q14. Niveau des agréments accordés
+Q13. Délai de réponse à vos demandes d’agrément
+Q12. Montant financé
+21%
+40%
+30%
+13%
+18%
+Ce que les clients attendent à ce niveau :
+Davantage de proactivité et de réactivité sur les demandes (affectations, imputations, communication sur le sujet, etc.)
+Des imputations faites en temps et en heure
+Des imputations sans erreur
+Une meilleure tenue des engagements
+Plus de transparence en cas de refus
+« Très compliqué, une perte de temps totale pour un entrepreneur, aucun respect du contrat par rapport aux services vendus. Un manque de réactivité sur les tableaux d'amortissement et avoir cela 2 mois après la demande, c'est une catastrophe et un coût trop élevé. Cela aurait été plus simple de le faire moi-même. Je fais en moyenne 45 factures par jour, c'est impossible à valider chaque bon, c'est une catastrophe. 
+(3 au délai de réponse aux demandes d’agrément)
+« Tous les clients que j'ai présentés, je n'ai jamais eu de réponses, ils ne m'ont rien validé, et je n'ai pas la raison du refus. Je dois laisser tomber car mes clients ne sont pas validés. »
+(3 au délai de réponse aux demandes d’agrément)
+
+--- Slide 62 ---
+Priorité 3 : DÉLAI DE RÉPONSES AUX DEMANDES D’AGRÉMENT – SIMULATION*
+01/07/2025
+62
+*La simulation consiste à observer les impacts de l’évolution de variables explicatives, sur une variable à expliquer, ceci en conservant une structure d’échantillon identique et en neutralisant l’effet possible de variables de profil. Les variables neutralisées ici sont l’ancienneté du contrat, le segment de clientèle, le niveau d’encours, le produit détenu et le commercial en charge du compte.
++27
+8,3
+8,1
+8,0
+8,6
+Q17. Affectation des règlements
+Q14. Niveau des agréments accordés
+Q13. Délai de réponse à vos demandes d’agrément
+Q12. Montant financé
+21%
+40%
+30%
+13%
+18%
+Objectifs fixés :
+Délai de réponse aux demandes d’agrément : +0,2 pts
+
+Une amélioration de la satisfaction quant aux délais de réponse aux demandes d’agrément aurait un impact non négligeable sur le NPS, qui atteindrait +27. Un gain relativement notable pour une hausse notable mais a priori faisable sur ce critère.
+
+--- Slide 63 ---
+Conclusions & recommandations
+63
+
+--- Slide 64 ---
+Ce qu’il faut retenir
+64
+
+--- Slide 65 ---
+Nos recommandations*
+4
+*formulées sur la base des résultats de la présente étude. D’autres informations exogènes (ressources, contraintes techniques, réglementaires et légales) sont bien évidemment à prendre en compte.
+65
+
+--- Slide 66 ---
+Annexes
+66
+
+--- Slide 67 ---
+Résultats par segment de clientèle
+01/07/2025
+67
+--
+++
+--
+--
+--
+--
+++
+++
+++
+++
+++
+++
+++
+++
+++
+
+--- Slide 68 ---
+Top 5 des mentions spontanées positives et négatives, par segment
+01/07/2025
+68
+Pourquoi cette note de satisfaction (de cœur) ? – Top 5 par segment
+Q2. Pour quelle(s) raison(s) donnez-vous cette note de [note en Q1] ? (n=490)
+
+--- Slide 69 ---
+Intérêt quant aux communications autour des offres, services, webinaires, etc.
+01/07/2025
+69
+Seriez-vous intéressé de recevoir des communications personnalisées autour de nos offres et services, des évolutions réglementaires, des invitations à des conférences et webinaires ?
+Q23bis. Seriez-vous intéressé de recevoir des communications personnalisées autour de nos offres et services, des évolutions réglementaires, des invitations à des conférences et webinaires ? (n=500)
+OUI
+
+--- Slide 70 ---
+Niveau d’information suffisant concernant la loi de réforme des factures électroniques
+01/07/2025
+70
+Estimez-vous disposer de suffisamment d'information concernant la loi de réforme de vos factures électroniques ?
+OUI
+(48%)
+Q22bis. Estimez-vous disposer de suffisamment d'information concernant la loi de réforme de vos factures électroniques ? (n=500)
+
+--- Slide 71 ---
+Sollicitation par un autre factor au cours des 12 derniers mois
+01/07/2025
+71
+Avez-vous sollicité un autre factor 
+au cours des 12 derniers mois ?
+OUI
+Q45. Avez-vous sollicité un autre factor au cours des 12 derniers mois ?  (n=495)
+Q45bis. Avez-vous été sollicité(e) par un autre factor au cours des 12 derniers mois ? (n=495)
+Avez-vous été sollicité(e) par un autre factor au cours des 12 derniers mois ?
+44% des répondants ont sollicité ou ont été sollicité
+ par un autre factor au cours des 12 derniers mois
+OUI
+
+--- Slide 72 ---
+Sollicitation par un autre factor au cours des 12 derniers mois
+01/07/2025
+72
+ont sollicité / été sollicité par un autre factor
+(25%)
+(20%)
+(22%)
+(17%)
+(18%)
+(8%)
+(3%)
+(5%)
+(1%)
+(-)
+(-)
+Q45. Avez-vous sollicité un autre factor au cours des 12 derniers mois ?  (n=495) / Q45bis. Avez-vous été sollicité(e) par un autre factor au cours des 12 derniers mois ? (n=495)
+Q46. Lequel / Lesquels ? (n=142)
+(12%)
+
+--- Slide 73 ---
+Sujet RSE : implication et importance du positionnement du factor sur ce critère
+01/07/2025
+73
+Positionnement RSE comme un critère déterminant dans le choix du factor
+(10%)
+(25%)
+(28%)
+(37%)
+Q2bis. Le positionnement RSE est-il un critère déterminant dans le choix de votre factor ? (n=459)
+
+--- Slide 74 ---
+Participation à une réunion Clients pour s’exprimer quant à l’évolution des produits BNP Paribas Factor
+01/07/2025
+74
+Seriez-vous prêt à participer à une réunion Clients afin de recueillir votre avis quant à l’évolution de nos produits ?
+Q49ter. Seriez-vous prêt à participer à une réunion Clients afin de recueillir votre avis quant à l’évolution de nos produits ? (n=490)
+OUI
+(41%)
+
+--- Slide 75 ---
+Résultats par ancienneté
+01/07/2025
+75
+--
+++
+++
+++
+--
+--
+++ / -- : Meilleur ou moins bien que le total des clients BNP Paribas Factor
+
+--- Slide 76 ---
+Résultats par plafond
+01/07/2025
+76
+--
+++
+++
+--
+++
+++
+++
+++
+++
+--
+--
+--
+--
+--
+--
+--
+--
+--
+--
+++ / -- : Meilleur ou moins bien que le total des clients BNP Paribas Factor
+
+--- Slide 77 ---
+NPS selon la satisfaction du parcours client
+01/07/2025
+77
+NPS :
+…si très satisfait du critère (9 ou 10)
+…si pas satisfait du critère (0 à 6)

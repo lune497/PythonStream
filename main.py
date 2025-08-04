@@ -13,10 +13,35 @@ import uvicorn
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
+with open("rapport_bnp_satisfaction_2024.txt", "r", encoding="utf-8") as f:
+    document_contenu = f.read()
+
+
+
+# SYSTEM_MESSAGE = (
+#     "Tu es un assistant vocal téléphonique. "
+#     "Tu ne dois répondre qu'en te basant exclusivement sur le CONTEXTE FIXE ci-dessous. "
+#     "Même si tu connais la réponse grâce à ta base de données, tu dois refuser de répondre si l'information n'apparaît pas dans ce texte. "
+#     "Ne complète jamais avec tes connaissances personnelles ou générales. "
+#     "Si la réponse n'est pas présente dans le texte, dis simplement : "
+#     "\"Je suis désolé, je ne suis pas autorisé à répondre à cela. Je vous invite à écrire à l'adresse : lavoixduclient@lvdc.fr.\"\n\n"
+#     "=== CONTEXTE FIXE ===\n"
+#     "Procédure d’ouverture de compte bancaire en FRANCE :\n"
+#     "- L'utilisateur doit présenter une pièce d'identité valide (CNI, passeport ou titre de séjour).\n"
+#     "- Un justificatif de domicile de moins de 3 mois est requis.\n"
+#     "- Un dépôt minimum de 50 € est nécessaire à l’ouverture.\n"
+#     "- Le délai moyen d’activation du compte est de 48 heures ouvrées.\n"
+#     "- Le RIB est délivré immédiatement après la création du compte.\n"
+# )
 SYSTEM_MESSAGE = (
-    "Tu es un assistant vocal IA joyeux et serviable qui répond en français. "
-    "Tu parles de manière claire et chaleureuse, et tu peux faire de petites blagues quand c’est approprié. "
-    "Ton but est d’aider l’utilisateur avec des réponses simples, utiles et bienveillantes."
+    "Tu es un expert chargé d’analyser un document fourni par l’utilisateur. "
+    "Tu ne dois répondre qu'en te basant exclusivement sur le contenu du document ci-dessous. "
+    "Même si tu connais la réponse grâce à ta base de données, tu dois refuser de répondre si l'information n'apparaît pas dans ce document."
+    "Tu n’as pas le droit d’utiliser tes connaissances personnelles ou générales, ni d’inventer des réponses. "
+    "Si une information n’est pas explicitement présente dans le document, tu dois dire poliment : "
+    "\"Je suis désolé, je ne peux pas répondre à cette question car l'information ne figure pas dans le document fourni.\"\n\n"
+    "=== DOCUMENT À ANALYSER ===\n"
+    f"{document_contenu}"
 )
 
 VOICE = "alloy"
@@ -35,7 +60,7 @@ if not OPENAI_API_KEY:
 
 @app.api_route("/", methods=["GET", "POST"])
 async def index_page():
-    return "<h1>✅ Serveur en ligne. Youtube: @the_ai_solopreneur</h1>"
+    return "<h1>✅ Serveur en ligne</h1>"
 
 
 @app.api_route("/incoming-call", methods=["GET", "POST"])
@@ -59,7 +84,8 @@ async def handle_media_stream(websocket: WebSocket):
     await websocket.accept()
 
     async with websockets.connect(
-        'wss://api.openai.com/v1/realtime?model=gpt-4o-realtime-preview-2024-10-01',
+        # 'wss://api.openai.com/v1/realtime?model=gpt-4o-realtime-preview-2024-10-01',
+        'wss://api.openai.com/v1/realtime?model=gpt-4o-mini-realtime-preview',
         extra_headers={
             "Authorization": f"Bearer {OPENAI_API_KEY}",
             "OpenAI-Beta": "realtime=v1"
@@ -108,7 +134,21 @@ async def handle_media_stream(websocket: WebSocket):
                         print("⚙️ Session mise à jour")
 
                     elif response['type'] == 'input_audio_buffer.speech_started':
-                        print("🟢 Début de parole détecté")
+                         print('Speech Start:', response['type'])
+                         # Clear Twilio buffer
+                         clear_twilio = {
+                            "streamSid": stream_sid,
+                            "event": "clear"
+                         }
+                         await websocket.send_json(clear_twilio)
+                         print('Cleared Twilio buffer.')
+                        
+                        # Send interrupt message to OpenAI
+                         interrupt_message = {
+                            "type": "response.cancel"
+                         }
+                         await openai_ws.send(json.dumps(interrupt_message))
+                         print('Cancelling AI speech from the server.')
 
                     elif response['type'] == 'input_audio_buffer.speech_stopped':
                         print("🔴 Fin de parole détectée")
@@ -155,7 +195,7 @@ async def send_session_update(openai_ws):
             "turn_detection": {
                 "type": "server_vad",
                 "threshold": 0.3,
-                "silence_duration_ms": 500,
+                "silence_duration_ms": 200,
                 "create_response": True,
                 "interrupt_response": True
             },
@@ -164,7 +204,7 @@ async def send_session_update(openai_ws):
             "voice": VOICE,
             "instructions": SYSTEM_MESSAGE,
             "modalities": ["text", "audio"],
-            "temperature": 0.8,
+            "temperature": 0.7,
         }
     }
     print("⚙️ Session config envoyée:", json.dumps(session_update))
